@@ -1,0 +1,32 @@
+
+@import url(CSS/components/button.css);
+@import url(CSS/components/picture.css);
+@import url(CSS/components/textes.css);
+
+
+body{
+    background-color: #dfdfdf;
+}
+
+
+/*star*/
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+/*taille etoile*/
+
+.star {
+    width: 60px;
+}
+
+/*logo*/
+
+.logo {
+    width: 40px;
+}
+
+
+
